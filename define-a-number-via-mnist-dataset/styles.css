@@ -1,0 +1,12 @@
+canvas {
+    outline: 1px solid black;
+    margin-right: 50px;
+}
+
+#inputs {
+    margin-right: 50px;
+}
+
+#inputs, #res {
+    display: inline-block;
+}
